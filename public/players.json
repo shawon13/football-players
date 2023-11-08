@@ -1,0 +1,146 @@
+[
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+        "name": "Lionel Messi",
+        "team": "Argentina",
+        "price": 450,
+        "ratings": 5,
+        "img": "https://i.ibb.co/8cmMmMF/images.jpg",
+        "quantity": 0
+    },
+    {
+        "id": "13cbc7ed-a61b-4883-9d42-82d7d8642b86",
+        "name": "Cristiano Ronaldo",
+        "team": "Portugal",
+        "price": 430,
+        "ratings": 5,
+        "img": "https://i.ibb.co/6mCYdtB/Cristiano-Ronaldo-2018.jpg",
+        "quantity": 0
+    },
+    {
+        "id": "307f166f-1d04-4573-bc37-2f461ea9d4f7",
+        "name": "Kylian Mbappé",
+        "team": "France",
+        "price": 300,
+        "ratings": 4,
+        "img": "https://i.ibb.co/LvW0G2P/images.jpg",
+        "quantity": 0
+    },
+    {
+        "id": "4bf9798f-63bc-4a83-b0c6-6a3b816fe922",
+        "name": "Kevin De Bruyne",
+        "team": "Belgium",
+        "price": 203,
+        "ratings": 3,
+        "img": "https://i.ibb.co/ZYgQnK1/images-1.jpg",
+        "quantity": 0
+    },
+    {
+        "id": "9496d72b-04ec-41f8-9bc3-0a7c9697be8e",
+        "name": "Mohamed Salah",
+        "team": "Egyptian",
+        "price": 130,
+        "ratings": 4,
+        "img": "https://i.ibb.co/0jTCgQD/images-1.jpg",
+        "quantity": 0
+    },
+    {
+        "id": "6e5593d3-557b-43cf-8dab-a5140faedfb0",
+        "name": "Erling Haaland",
+        "team": "Norway",
+        "price": 120,
+        "ratings": 3,
+        "img": "https://i.ibb.co/tJPXqgD/images.jpg",
+        "quantity": 0
+    },
+    {
+        "id": "9c0c13c2-54e4-4001-809b-afbd9d84037d",
+        "name": "Neymar",
+        "team": "Brazilian",
+        "price": 420,
+        "ratings": 4,
+        "img": "https://i.ibb.co/Sf6H5HM/images-1.jpg",
+        "quantity": 0
+    },
+    {
+        "id": "c9d1f410-d28f-49d9-9b01-d759b5acbeea",
+        "name": "Lautaro Martínez",
+        "team": "Argentina",
+        "price": 350,
+        "ratings": 4,
+        "img": "https://i.ibb.co/zXRsB7d/images.jpg",
+        "quantity": 0
+    },
+    {
+        "id": "1564a06b-692f-4f2e-8413-9c8a1cc2da77",
+        "name": "Thiago Silva",
+        "team": "Brazilian",
+        "price": 199,
+        "ratings": 3,
+        "img": "https://i.ibb.co/8YH4d6P/20180610-FIFA-Friendly-Match-Austria-vs-Brazil-Thiago-Silva-850-1582.jpg",
+        "quantity": 0
+    },
+    {
+        "id": "ac44095f-230e-4502-8816-dea3eaae8320",
+        "name": "Toni Kroos",
+        "team": "German",
+        "price": 160,
+        "ratings": 3,
+        "img": "https://i.ibb.co/2W7NGbV/images.jpg",
+        "quantity": 0
+    },
+    {
+        "id": "d0803f97-966f-4296-ad31-a7f70fc86fab",
+        "name": "Luka Modrić",
+        "team": "Croatian",
+        "price": 200,
+        "ratings": 4,
+        "img": "https://i.ibb.co/NgR1F9m/ISL-HRV-7.jpg",
+        "quantity": 0
+    },
+    {
+        "id": "8a5b4a9c-76ea-4fbb-9c70-9548de4eab01",
+        "name": "Harry Kane",
+        "team": "English",
+        "price": 320,
+        "ratings": 4,
+        "img": "https://i.ibb.co/QM1QMrD/licensed-image.jpg",
+        "quantity": 0
+    },
+    {
+        "id": "b357e19b-4dd9-4fc7-b5c0-9ed5255464ba",
+        "name": "Andrew Robertson",
+        "team": "Scottish",
+        "price": 340,
+        "ratings": 3,
+        "img": "https://i.ibb.co/xLfNfkK/images-1.jpg",
+        "quantity": 0
+    },
+    {
+        "id": "e4220958-06d2-4d50-96fa-0163a563f43d",
+        "name": "Joshua Kimmich",
+        "team": "German",
+        "price": 140,
+        "ratings": 3,
+        "img": "https://i.ibb.co/C8XBZ6k/licensed-image-1.jpg",
+        "quantity": 0
+    },
+    {
+        "id": "ae69f0e4-559c-4b24-8032-80b63f9b5073",
+        "name": "João Cancelo",
+        "team": "Portuguese",
+        "price": 220,
+        "ratings": 5,
+        "img": "https://i.ibb.co/G56SJ1m/gettyimages-1359835152-612x612.jpg",
+        "quantity": 0
+    },
+    {
+        "id": "dbf7ab3f-b383-4d95-8ab7-f55fcf6fa5f2",
+        "name": "Gavi",
+        "team": "Spanish",
+        "price": 120,
+        "ratings": 5,
+        "img": "https://i.ibb.co/8xLPQFJ/images.jpg",
+        "quantity": 0
+    }
+]
